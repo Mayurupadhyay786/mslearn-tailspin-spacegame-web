@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: MyCode
+  name: Default
   
 
 variables:
